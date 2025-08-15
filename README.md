@@ -36,7 +36,7 @@ where Deaf communities aren’t “included later,” but **built in from day ze
 ## 🌐 Connect
 - Website: [360magicians.com](https://360magicians.com)
 - Ecosystem Docs: *(Coming Soon)*
-- Partners: v0, AI Google Studio, Supabase, OpenAI, Claude AI, Cursor Ai
+- Partners: v0, AI Google Studio, Supabase, OpenAI, Claude AI, Cursor Ai, Neon, Fal, Grok, Groq
 
 ---
 
